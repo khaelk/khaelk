@@ -1,6 +1,5 @@
 ### Hi there 👋
-### Working with git ⚡
-Testing some commands
+
 <!--
 **khaelk/khaelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
